@@ -158,7 +158,7 @@ async function main() {
         let extras = [''];
         if (rname.includes('我的哔哩[官]')) {
             extras = [
-                '?type=url&params=../json/小学教育.json@哔哩教育[官]',
+                '?type=url&params=../json/哔哩教育.json@哔哩教育[官]',
                 '?type=url&params=../json/哔哩大全.json@哔哩大全[官]',
             ];
         } else if (rname.includes('采集之王')) {
