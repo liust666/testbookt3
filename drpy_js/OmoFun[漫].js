@@ -1,6 +1,6 @@
 var rule = {
     title: 'OmoFun[漫]',
-    host: 'http://omofun2.xyz',
+    host: 'https://www.omofun.site',
     hostJs: $js.toString(() => {
         print(HOST);
         let html = request(HOST, {headers: {"User-Agent": PC_UA}});
