@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)|更新同步于0718",
+			"name": "360影视[官](drpy_t3)|更新同步于0719",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -2603,7 +2603,7 @@
 			"ext": "./drpy_js/玩偶哥哥[盘].js"
 		},
 		{
-			"key": "Wogg",
+			"key": "Wogg1",
 			"name": "玩偶哥哥|网盘",
 			"type": 3,
 			"api": "csp_Wogg",
@@ -2611,7 +2611,19 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./json/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./json/wogg.json",
+			"ext": "./json/tokenm.json$$$https://www.wogg.link/$$$proxy$$$1$$$./json/wogg.json",
+			"order_num": 9999
+		},
+		{
+			"key": "Wogg0",
+			"name": "玩偶哥哥|备用",
+			"type": 3,
+			"api": "csp_Wogg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./json/tokenm.json$$$https://www.wogg.net/$$$proxy$$$1$$$./json/wogg.json",
 			"order_num": 9999
 		},
 		{
@@ -4279,8 +4291,8 @@
 			}
 		},
 		{
-			"name": "一箭",
-			"url": "https://bfq2.yzcyj.net/player/?url=",
+			"name": "红狐",
+			"url": "https://player.mrgaocloud.com/player/?url=",
 			"type": 0,
 			"ext": {
 				"flag": [
@@ -4311,8 +4323,8 @@
 			}
 		},
 		{
-			"name": "红狐",
-			"url": "https://player.mrgaocloud.com/player/?url=",
+			"name": "一箭",
+			"url": "https://bfq2.yzcyj.net/player/?url=",
 			"type": 0,
 			"ext": {
 				"flag": [

@@ -32,6 +32,7 @@ async function main() {
         '虾米2,https://jx.xmflv.cc/?url=,0',
         '云析,https://jx.yparse.com/index.php?url=,0',
         '红狐,https://player.mrgaocloud.com/player/?url=,0',
+        '一箭,https://bfq2.yzcyj.net/player/?url=,0',
     ];
     let parses = parse_apis.map((it) => {
         let _name = it.split(',')[0];
