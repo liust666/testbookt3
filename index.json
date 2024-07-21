@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)|更新同步于0720",
+			"name": "360影视[官](drpy_t3)|更新同步于0721",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -3924,6 +3924,94 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/一曲肝肠断.js"
+		},
+		{
+			"key": "hipy_js_咕咕番[漫]",
+			"name": "咕咕番[漫](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/咕咕番[漫].js"
+		},
+		{
+			"key": "hipy_js_旋风视频",
+			"name": "旋风视频(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/旋风视频.js"
+		},
+		{
+			"key": "hipy_js_种子音乐[听]",
+			"name": "种子音乐[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/种子音乐[听].js"
+		},
+		{
+			"key": "hipy_js_臭蛋蛋",
+			"name": "臭蛋蛋(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/臭蛋蛋.js"
+		},
+		{
+			"key": "hipy_js_萌番[漫]",
+			"name": "萌番[漫](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/萌番[漫].js"
+		},
+		{
+			"key": "hipy_js_速讯影院",
+			"name": "速讯影院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/速讯影院.js"
+		},
+		{
+			"key": "hipy_js_那兔视频",
+			"name": "那兔视频(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/那兔视频.js"
+		},
+		{
+			"key": "hipy_js_金牌影院",
+			"name": "金牌影院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/金牌影院.js"
 		},
 		{
 			"key": "hipy_js_voflix",
