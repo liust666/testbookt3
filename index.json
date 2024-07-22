@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)|更新同步于0721",
+			"name": "360影视[官](drpy_t3)|更新同步于0722",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -4023,6 +4023,61 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/金牌影院.js"
+		},
+		{
+			"key": "hipy_js_家庭影视",
+			"name": "家庭影视(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/家庭影视.js"
+		},
+		{
+			"key": "hipy_js_小宝影院",
+			"name": "小宝影院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/小宝影院.js"
+		},
+		{
+			"key": "hipy_js_电影狗",
+			"name": "电影狗(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/电影狗.js"
+		},
+		{
+			"key": "hipy_js_看呀看",
+			"name": "看呀看(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/看呀看.js"
+		},
+		{
+			"key": "hipy_js_爱弹幕[漫]",
+			"name": "爱弹幕[漫](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/爱弹幕[漫].js"
 		},
 		{
 			"key": "hipy_js_voflix",
