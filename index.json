@@ -4278,6 +4278,39 @@
 			"ext": "./drpy_js/GO影视.js"
 		},
 		{
+			"key": "hipy_js_eFuns",
+			"name": "eFuns(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/eFuns.js"
+		},
+		{
+			"key": "hipy_js_追影TV",
+			"name": "追影TV(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/追影TV.js"
+		},
+		{
+			"key": "hipy_js_金金虫",
+			"name": "金金虫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/金金虫.js"
+		},
+		{
 			"key": "hipy_js_voflix",
 			"name": "voflix(drpy_t3)",
 			"type": 3,
