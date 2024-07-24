@@ -173,7 +173,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 193,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=../json/live2cms.json$1"
+			"ext": "./drpy_js/直播转点播[合].js?type=url&params=../json/live2cms.json"
 		},
 		{
 			"key": "hipy_js_直播转点播[合]1",
