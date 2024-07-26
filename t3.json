@@ -2661,7 +2661,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./json/tokenm.json$$$https://www.wogg.xyz/$$$proxy$$$1$$$./json/wogg.json",
+			"ext": "./json/tokenm.json$$$https://www.wogg.net/$$$proxy$$$1$$$./json/wogg.json",
 			"order_num": 9999
 		},
 		{
@@ -2673,7 +2673,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./json/tokenm.json$$$https://www.wogg.net/$$$proxy$$$1$$$./json/wogg.json",
+			"ext": "./json/tokenm.json$$$http://wogg.xxooo.cf/$$$proxy$$$1$$$./json/wogg.json",
 			"order_num": 9999
 		},
 		{
