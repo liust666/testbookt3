@@ -89,6 +89,10 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "./json/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
 			"order_num": 9999
 		},
 		{
