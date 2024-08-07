@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "Local",
-			"name": "本地|更新同步于0806",
+			"name": "本地|更新同步于0807",
 			"type": 3,
 			"api": "csp_Local"
 		},
@@ -4476,6 +4476,28 @@
 			"ext": "./drpy_js/UAA[听].js"
 		},
 		{
+			"key": "hipy_js_rarbt[优]",
+			"name": "rarbt[优](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/rarbt[优].js"
+		},
+		{
+			"key": "hipy_js_片多多[优]",
+			"name": "片多多[优](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/片多多[优].js"
+		},
+		{	
 			"key": "UCShare",
 			"name": "UC云盘分享",
 			"type": 3,
