@@ -122,7 +122,7 @@ async function main() {
         'wallpaper': 'https://tuapi.eees.cc/api.php?category=fengjing&type=302',
         'homepage': 'https://github.com/hjdhnx/hipy-server',
         "homeLogo": "./img/logo500x200-1.png",
-        "spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
+        "spider": "./jar/pg.jar",
         'sites': [],
         'parses': parses,
         'flags': [
@@ -164,8 +164,8 @@ async function main() {
             ];
         } else if (rname.includes('采集之王')) {
             extras = [
-                '?type=url&params=../json/采集静态.json$1@采王道长[合]',
-                '?type=url&params=../json/采集[zy]静态.json$1@采王zy[密]',
+                '?type=url&params=../json/采集静态.json$1@采王[合]',
+                '?type=url&params=../json/采集[zy]静态.json$1@采王zy[合]',
                 '?type=url&params=../json/采集[密]静态.json@采王成人[密]',
             ];
         } else if (rname.includes('直播转点播')) {
