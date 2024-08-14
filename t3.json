@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "Local",
-			"name": "本地|更新同步于0809",
+			"name": "本地|更新同步于0814",
 			"type": 3,
 			"api": "csp_Local"
 		},
@@ -332,8 +332,8 @@
 			"type": 3,
 			"api": "csp_P115Share",
 			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
+			"quickSearch": 1,
+			"changeable": 1,
 			"filterable": 0,
 			"timeout": 120,
 			"ext": "./json/tokenm.json$$$./json/115share.txt$$$db$$$1",
