@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "Local",
-			"name": "本地|更新同步于0814",
+			"name": "本地|更新同步于0818",
 			"type": 3,
 			"api": "csp_Local"
 		},
@@ -4449,6 +4449,39 @@
 			"ext": "./drpy_js/UAA[听].js"
 		},
 		{
+			"key": "hipy_js_木偶哥哥[盘]",
+			"name": "木偶哥哥[盘](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/木偶哥哥[盘].js"
+		},
+		{
+			"key": "hipy_js_歪片星球[资]",
+			"name": "歪片星球[资](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/歪片星球[资].js"
+		},
+		{
+			"key": "hipy_js_泥视频[资]",
+			"name": "泥视频[资](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/泥视频[资].js"
+		},
+		{
 			"key": "UCShare",
 			"name": "UC云盘分享",
 			"type": 3,
@@ -4463,6 +4496,39 @@
 				"type": "list",
 				"ratio": 1.1
 			}
+		},
+		{
+		    "key":"Mogg",
+		    "name":"木偶哥哥|网盘",
+		    "type":3,
+		    "api":"csp_Wobg",
+		    "quickSearch":1, 
+		    "changeable":1, 
+		    "filterable":1, 
+		    "timeout":60, 
+		    "ext":"./json/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./json/wogg.json$$$MOGG"
+		},
+		{
+		    "key": "土豆",
+		    "name": "土豆|网盘",
+		    "type": 3,
+		    "api": "csp_Wobg",
+		    "searchable": 1,
+		    "filterable": 0,
+		    "changeable": 1, 
+		    "timeout":60, 
+		    "ext":"./json/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wog.json$$$TUDOU"
+		},
+		{
+			"key": "小米网盘",
+			"name": "小米|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./json/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./json/wogg.json$$$XIAOMI"
 		},
 		{
 			"key": "hipy_js_voflix",
