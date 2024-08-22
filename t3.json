@@ -4457,14 +4457,13 @@
 			"order_num": 0,
 			"ext": "./drpy_js/script直播[飞].js"
 		},
-		{
-			"key": "TGYunPan",
-			"name": "TG搜索|网盘搜索",
-			"type": 3,
-			"api": "csp_TGYunPan",
-			"timeout": 60,
-			"ext": "./json/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
-		},
+		{   "key":"TGYunPan",
+		    "name":"TG搜索Local|网盘搜索",
+		    "type":3,
+		    "api":"csp_TGYunPanLocal",
+		    "timeout":60, 
+		    "ext":"./json/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
+		},  
 		{
 			"key": "hipy_js_TVB云播",
 			"name": "TVB云播(drpy_t3)",
