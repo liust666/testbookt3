@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "Local",
-			"name": "本地|更新同步于0818",
+			"name": "本地|更新同步于0829",
 			"type": 3,
 			"api": "csp_Local"
 		},
@@ -4209,14 +4209,6 @@
 			"ext": "./drpy_js/iku喵[资].js"
 		},
 		{
-			"key": "Iktv",
-			"name": "KTV",
-			"type": 3,
-			"api": "csp_Iktv",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "hipy_js_KTV歌厅[听]",
 			"name": "KTV歌厅[听](drpy_t3)",
 			"type": 3,
@@ -4406,13 +4398,6 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/script直播[飞].js"
-		},
-		{   "key":"TGYunPan",
-		    "name":"TG搜索Local|网盘搜索",
-		    "type":3,
-		    "api":"csp_TGYunPanLocal",
-		    "timeout":60, 
-		    "ext":"./json/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"
 		},  
 		{
 			"key": "hipy_js_TVB云播",
