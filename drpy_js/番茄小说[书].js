@@ -82,7 +82,7 @@ var rule = {
     host: 'https://fanqienovel.com',
     homeUrl: 'https://fanqienovel.com/api/author/book/category_list/v0/',
     url: '/api/author/library/book_list/v0/?page_count=18&page_index=(fypage-1)&gender=-1&category_id=fyclass&creation_status=-1&word_count=-1&sort=0#fyfilter',
-    searchUrl: '/api/author/search/search_book/v1/?filter=127,127,127,127&page_count=10&page_index=(fypage-1)&query_type=0&query_word=**',
+    searchUrl:"https://fanqienovel.com/page/" + it.book_id,
     searchable: 2,
     quickSearch: 0,
     filterable: 1,
